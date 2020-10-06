@@ -1,19 +1,35 @@
-# reto-02
+# FractalUp Reto 02 🙌
 
-## Project setup
-```
-npm install
-```
+Aplicación web para reproducir clips de podcasts de la API Rest de AudioBoom [https://github.com/audioboom/api](https://github.com/audioboom/api 'API Rest AudioBoom')
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Qué contiene y cómo está desarrollada ❓
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Contiene:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  - Listado de podcast.
+  - Reproductor de clips del podcast seleccionado.
+  - Modulador de volumen.
+
+- Está desarrollada con [Vue](https://vuejs.org/).
+
+### Tecnologías utilizadas 👨‍💻
+
+- [Vue CLI](https://cli.vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
+
+### Live Preview 👁‍🗨
+
+[https://pavd-fractalup-reto02.netlifyapp](https://pavd-fractalup-reto02.netlifyapp)
+
+![FractalUp Reto 02](./screenshot.png)
+
+### Edpoints utilizados
+
+- [https://api.audioboom.com/channels/recommended](https://api.audioboom.com/channels/recommended)
+
+- [https://api.audioboom.com/channels/4920938/audio_clips](https://api.audioboom.com/channels/4920938/audio_clips)
+
+### Clona el repositorio e instala las dependencias
+
+- npm install
+- npm run serve
