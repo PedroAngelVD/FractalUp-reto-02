@@ -19,7 +19,7 @@ Aplicación web para reproducir clips de podcasts de la API Rest de AudioBoom [h
 
 ### Live Preview 👁‍🗨
 
-[https://pavd-fractalup-reto02.netlifyapp](https://pavd-fractalup-reto02.netlify.app)
+[https://pavd-fractalup-reto02.netlify.app](https://pavd-fractalup-reto02.netlify.app)
 
 ![FractalUp Reto 02](./screenshot.png)
 
